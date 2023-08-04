@@ -1,17 +1,14 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Mi primer post en el blog'
 pubDate: 2023-08-03
 description: 'Este es el primer post de mi nuevo blog Astro.'
 author: 'Francisco Javier Antolinez Salazar'
 image:
-  url: 'https://astro.build/assets/blog/astro-1-release-update/cover.jpeg'
+  url: 'https://astro.build/assets/press/astro-icon-dark.png'
   alt: 'El logotipo de Astro con la palabra One.'
 tags: ["astro", "bloguear", "aprender en público"]
 ---
-
-# Mi primer post en el blog
-
-Published on: 2023-08-03
 
 ¡Bienvenido a mi _nuevo blog_ sobre el aprendizaje de Astro! Aquí, voy a compartir mi viaje de aprendizaje a medida que construyo un nuevo sitio web.
 
@@ -26,3 +23,5 @@ Published on: 2023-08-03
 ## Próximos pasos
 
 Terminaré el tutorial de Astro, y luego seguiré añadiendo más posts. Mira este espacio para más por venir.
+
+[Atras](/blog)
